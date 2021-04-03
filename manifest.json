@@ -1,0 +1,18 @@
+{
+    "name": "SneakyTube",
+    "description": "SneakyTube helps you protect your privacy whenever someone walks on you :)",
+    "version": "1.0",
+    "icons": {"256": "images/sneakytube.png"},
+    "manifest_version": 2,
+    "background":{
+        "scripts": ["./background.js"]
+    },
+    "options_page": "./options.html",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "https://www.youtube.com/*"
+    ]
+}
