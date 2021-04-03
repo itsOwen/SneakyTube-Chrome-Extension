@@ -9,6 +9,9 @@ This Extension is created for eductional purposes only.
 1. Whenever Someone Walks on you Simply press "Enter Key" on Keyboard to hide your video, sidebar, title and more.
 2. Press "Enter Key" again to get back to the same video, from where you left.
 
+##SneakPeak
+<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/sneakpeak.gif" width="1280px" height="720px">
+
 ## Note (Installation):
 1. Download this repository.
 2. Extract the folder.
