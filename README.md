@@ -2,6 +2,8 @@
 
 This is a very Simple Chrome Extension, Created inorder to protect your privacy when someone walks on you when watching sensitive content on Youtube :)
 
+<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/preview.png">
+
 ## DISCLAIMER
 This Extension is created for eductional purposes only.
 
