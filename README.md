@@ -12,7 +12,7 @@ This Extension is created for eductional purposes only.
 2. Press "Enter Key" again to get back to the same video, from where you left.
 
 ## SneakPeak:
-<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/sneakpeak.gif" width="1280px" height="720px">
+<img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/sneakpeaknewversion.gif" width="1280px" height="720px">
 
 ## Note (Installation):
 1. Download this repository.
