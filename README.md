@@ -1,14 +1,14 @@
 # SneakyTube Chrome Extension! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is a very Simple Chrome Extension, Created inorder to protect your privacy when someone walks on you when watching sensitive content on Youtube :)
+This is a very simple Chrome extension, created in order to protect your privacy when someone walks in on you watching sensitive content on Youtube :)
 
 <img src="https://github.com/itsOwen/SneakyTube-Chrome-Extension/blob/master/images/preview.png">
 
 ## DISCLAIMER
-This Extension is created for eductional purposes only.
+This extension is for educational purposes only.
 
 ## Features:
-1. Whenever Someone Walks on you Simply press "Enter Key" on Keyboard to hide your video (fake  buffering), sidebar, title and more.
+1. Whenever Someone walks in on you, simply press the "Enter Key" on the keyboard to hide your video (fake buffering), sidebar, title and more.
 2. Press "Enter Key" again to get back to the video (remove fake buffering), from where you left.
 
 ## SneakPeak:
